@@ -1,0 +1,25 @@
+{
+  "name": "quoter",
+  "version": "0.0.1",
+  "description": "quote gen",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cj69/quoter.git"
+  },
+  "author": "cj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cj69/quoter/issues"
+  },
+  "homepage": "https://github.com/cj69/quoter#readme"
+}
