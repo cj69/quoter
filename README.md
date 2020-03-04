@@ -1,2 +1,2 @@
 # quoter
-quoter gen
+quote gen
